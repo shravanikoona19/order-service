@@ -1,6 +1,6 @@
 # order-service
 
-Simple Spring Boot service created by **Shravani Koona** as a starting point for a microservices-based order system.
+ Spring Boot service created by **Shravani Koona** as a starting point for a microservices-based order system.
 
 ## Tech Stack
 
